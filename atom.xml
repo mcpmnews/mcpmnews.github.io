@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cmh-dypm.github.io</id>
+    <id>https://www.mcpm.tk/</id>
     <title>mcpm</title>
-    <updated>2020-09-26T09:33:40.243Z</updated>
+    <updated>2020-09-26T09:35:41.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cmh-dypm.github.io"/>
-    <link rel="self" href="https://cmh-dypm.github.io/atom.xml"/>
+    <link rel="alternate" href="https://www.mcpm.tk/"/>
+    <link rel="self" href="https://www.mcpm.tk/atom.xml"/>
     <subtitle>mcpm服务器</subtitle>
-    <logo>https://cmh-dypm.github.io/images/avatar.png</logo>
-    <icon>https://cmh-dypm.github.io/favicon.ico</icon>
+    <logo>https://www.mcpm.tk/images/avatar.png</logo>
+    <icon>https://www.mcpm.tk/favicon.ico</icon>
     <rights>All rights reserved 2020, mcpm</rights>
     <entry>
         <title type="html"><![CDATA[关于捐赠]]></title>
-        <id>https://cmh-dypm.github.io/post/guan-yu-juan-zeng/</id>
-        <link href="https://cmh-dypm.github.io/post/guan-yu-juan-zeng/">
+        <id>https://www.mcpm.tk/post/guan-yu-juan-zeng/</id>
+        <link href="https://www.mcpm.tk/post/guan-yu-juan-zeng/">
         </link>
         <updated>2020-09-26T09:03:38.000Z</updated>
         <content type="html"><![CDATA[<p>租服务器需要筹备（下面有爱发电链接）<br>
@@ -25,8 +25,8 @@ https://afdian.net/@fkxw233<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[op获得]]></title>
-        <id>https://cmh-dypm.github.io/post/op-huo-de/</id>
-        <link href="https://cmh-dypm.github.io/post/op-huo-de/">
+        <id>https://www.mcpm.tk/post/op-huo-de/</id>
+        <link href="https://www.mcpm.tk/post/op-huo-de/">
         </link>
         <updated>2020-09-26T09:03:07.000Z</updated>
         <content type="html"><![CDATA[<p>服务器op获得渠道！！<br>
@@ -35,8 +35,8 @@ https://wj.qq.com/s2/7255343/8d27/</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[服务器]]></title>
-        <id>https://cmh-dypm.github.io/post/fu-wu-qi/</id>
-        <link href="https://cmh-dypm.github.io/post/fu-wu-qi/">
+        <id>https://www.mcpm.tk/post/fu-wu-qi/</id>
+        <link href="https://www.mcpm.tk/post/fu-wu-qi/">
         </link>
         <updated>2020-09-26T09:00:19.000Z</updated>
         <content type="html"><![CDATA[<p>1.16.2使用43.249.193.55:63535（1线）<br>
