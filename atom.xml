@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mcpmnews.github.io</id>
+    <title>纸船zhichuan</title>
+    <updated>2023-01-12T12:30:16.868Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mcpmnews.github.io"/>
+    <link rel="self" href="https://mcpmnews.github.io/atom.xml"/>
+    <subtitle>纸船网</subtitle>
+    <logo>https://mcpmnews.github.io/images/avatar.png</logo>
+    <icon>https://mcpmnews.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 纸船zhichuan</rights>
+    <entry>
+        <title type="html"><![CDATA[打算做一个下载站点]]></title>
+        <id>https://mcpmnews.github.io/post/da-suan-zuo-yi-ge-xia-zai-zhan-dian/</id>
+        <link href="https://mcpmnews.github.io/post/da-suan-zuo-yi-ge-xia-zai-zhan-dian/">
+        </link>
+        <updated>2023-01-10T09:39:49.000Z</updated>
+        <content type="html"><![CDATA[<p>看见国内这乱七八糟的下载站点实在忍不下去，打算自己做一个。纯净，”快速“，安全😀</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1973129951&auto=1&height=66"></iframe>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纸船网域名更换成功]]></title>
+        <id>https://mcpmnews.github.io/post/纸船域名改变/</id>
+        <link href="https://mcpmnews.github.io/post/纸船域名改变/">
+        </link>
+        <updated>2022-11-11T07:04:49.000Z</updated>
+        <content type="html"><![CDATA[<p>今天纸船网域名正式改为zhichuan.tk<br>
+域名由www.freenom.com提供，dns解析由cloudflare.com提供<br>
+我们再次感谢他们提供的免费技术支持！<img src="https://mcpmnews.github.io/post-images/1668150543279.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天玑9200，新一代移动soc]]></title>
+        <id>https://mcpmnews.github.io/post/tian-ji-9200/</id>
+        <link href="https://mcpmnews.github.io/post/tian-ji-9200/">
+        </link>
+        <updated>2022-11-11T06:22:29.000Z</updated>
+        <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=559902306&bvid=BV1Be4y117Dt&cid=885582821&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+极客湾这次还跟进了测试的方式，让实验结果更加准确！]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下一个时代（arm新架构）]]></title>
+        <id>https://mcpmnews.github.io/post/2022arm新架构/</id>
+        <link href="https://mcpmnews.github.io/post/2022arm新架构/">
+        </link>
+        <updated>2022-11-11T01:13:39.000Z</updated>
+        <content type="html"><![CDATA[<p>2022年，ARM发布全新旗舰 Immortalis 绘图处理器（Immortalis-G715），号称完美体验永存不灭。<br>
+它支持了移动端光追可将手机游戏推向全新境界。<br>
+arm称其是Arm效率最高的GPU，提升15%的能源效率，在移动设备实现更长时间的游戏体验。<br>
+“第一款提供以硬件为基础，在移动设备上支持光线追踪的Arm GPU。<br>
+全新可变速率着色提升游戏体验。</p>
+<p>两倍架构机器学习强化。”——ARM<br>
+arm还发布了中端gpu——mali-G715<br>
+相关参数：<br>
+<img src="https://mcpmnews.github.io/post-images/1668129829561.jpg" alt="" loading="lazy"></p>
+<p>而cpu架构方面arm发布了新的Cortex-X3与A715<br>
+arm宣传A715经过持续不断的强化，效能已与 Cortex-X1 并驾齐驱。</p>
+<p>我们非常期待2023年移动手机市场中各大厂商的表现。携x3，a715，a510与Immortalis-G715的soc令我们兴奋。到时候纸船网也会转载。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费vpn]]></title>
+        <id>https://mcpmnews.github.io/post/free vpn/</id>
+        <link href="https://mcpmnews.github.io/post/free vpn/">
+        </link>
+        <updated>2022-09-27T08:50:06.000Z</updated>
+        <content type="html"><![CDATA[<p>GreenHub<br>
+https://greenhubtx.ga/#</p>
+]]></content>
+    </entry>
+</feed>
